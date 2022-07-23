@@ -11,7 +11,6 @@ import shared
 
 class MainViewModel : ObservableObject {
     
-    @Published var name = Greeting().printName()
     
     
 }
